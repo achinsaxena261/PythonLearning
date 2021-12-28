@@ -18,9 +18,9 @@ from binary_search_tree import BinarySearchTree, TreeTraversalType
 
 # -----------------Matrix------------------------#
 
-m = Matrix(3, 4)
-m.create_matrix()
-print(m.grid)
+# m = Matrix(3, 4)
+# m.create_matrix()
+# print(m.grid)
 
 # -----------------QuickSort------------------------#
 
